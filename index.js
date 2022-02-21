@@ -31,6 +31,7 @@ for(item of buttons){
             screenValue +=buttonText;
             screen.value =screenValue;
         }
+        //this line is added from the github website in index.js file
 
     })
 }
